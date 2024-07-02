@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [GitPython](https://github.com/gitpython-developers/GitPython)
 - [PyGithub](https://github.com/PyGithub/PyGithub)
-- [cloc](https://github.com/AlDanial/cloc)
+
