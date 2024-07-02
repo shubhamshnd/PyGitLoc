@@ -30,7 +30,6 @@ This package relies on the following dependencies:
 
 - [GitPython](https://pypi.org/project/GitPython/)
 - [PyGithub](https://pypi.org/project/PyGithub/)
-- [cloc](https://github.com/AlDanial/cloc)
 
 ## How It Works
 
