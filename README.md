@@ -34,8 +34,7 @@ This package relies on the following dependencies:
 ## How It Works
 
 1. The `pygitloc` command clones the specified GitHub repository to a temporary directory.
-2. It then uses `cloc` to count the lines of code in the cloned repository.
-3. Finally, it outputs the results and cleans up the temporary directory.
+2. Finally, it calculates and outputs the results and cleans up the temporary directory.
 
 ## Example
 
