@@ -68,3 +68,8 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 - [GitPython](https://github.com/gitpython-developers/GitPython)
 - [PyGithub](https://github.com/PyGithub/PyGithub)
 
+## Contact
+
+For any questions or issues, please contact [shubhamshindesunil@gmail.com](mailto:shubhamshindesunil@gmail.com).
+[My Linkedin](https://www.linkedin.com/in/shubham-shnd/)
+
