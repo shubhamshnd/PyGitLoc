@@ -71,5 +71,5 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 ## Contact
 
 For any questions or issues, please contact [shubhamshindesunil@gmail.com](mailto:shubhamshindesunil@gmail.com).
-[My Linkedin](https://www.linkedin.com/in/shubham-shnd/)
+[My Linkedin](https://www.linkedin.com/in/shubham-shinde-313b291b9/)
 
